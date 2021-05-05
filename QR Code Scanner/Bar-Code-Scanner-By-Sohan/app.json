@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "QR-Code-Scanner",
+    "slug": "QR-Code-Scanner",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/iconA.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/iconA.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.sohancreations.qrcodescanner"
+    },
+    "web": {
+      "favicon": "./assets/webIcon.png"
+    }
+  }
+}
