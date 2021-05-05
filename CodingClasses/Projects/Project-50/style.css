@@ -1,0 +1,55 @@
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(44, 2, 2);
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+    height: 25px;
+} 
+
+.mHead {
+    background-color: rgb(58, 2, 11);
+}
+
+.bodyimg {
+    background-color: rgb(58, 2, 11);
+    color:whitesmoke;
+    align-items: center;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.step {
+    padding-left: 300px;
+    padding-right: 300px;
+    height: 150px;
+    font-size: 16px;
+}
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+    display: flex;
+    background-color: whitesmoke;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.origami{
+    border-radius: 20px;
+    background-color: rgb(243, 194, 176);
+    width: 310px;
+    font-family: fantasy;
+    margin-left: 50px;
+    margin-top: 25px;
+    padding-top: 15px;
+}
+
+body{
+    background-color: yellow;
+}

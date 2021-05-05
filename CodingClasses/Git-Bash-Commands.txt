@@ -1,0 +1,12 @@
+echo "# BedTime-Stories-Search-Functionality" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sohanCoder308/BedTime-Stories-Search-Functionality.git
+git push -u origin main
+
+GIT BASH LOGIN COMMANDS:-
+
+Set your username:  git config --global user.name "Your Username Here"
+Set your email address:  git config --global user.email "Your Email ID Here"
